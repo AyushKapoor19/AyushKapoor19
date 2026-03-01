@@ -87,7 +87,7 @@ Currently contributing to streaming applications across Fire TV, Android TV, Sam
 ---
 
 <p align="center">
-  <img src="https://github.com/AyushKapoor19/AyushKapoor19/blob/main/profile-3d-contrib/profile-night-rainbow.svg" />
+  <img src="https://raw.githubusercontent.com/AyushKapoor19/AyushKapoor19/main/profile-3d-contrib/profile-night-rainbow.svg" />
 </p>
 
 ---
