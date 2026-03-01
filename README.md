@@ -16,7 +16,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=2&section=header"/>
 </p>
 
-# Tech Stack
+## Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=red)
@@ -24,7 +24,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=red)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=red)
 
-### Frameworks & Libraries
+### Frameworks
 ![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=red)
 ![React Native](https://img.shields.io/badge/React_Native-111111?style=for-the-badge&logo=react&logoColor=red)
 ![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=red)
@@ -34,7 +34,7 @@
 ![Zustand](https://img.shields.io/badge/Zustand-111111?style=for-the-badge&logoColor=red)
 ![RxJS](https://img.shields.io/badge/RxJS-111111?style=for-the-badge&logo=reactivex&logoColor=red)
 
-### Databases & Caching
+### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=red)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=red)
 ![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=red)
@@ -42,14 +42,14 @@
 ![Firebase](https://img.shields.io/badge/Firebase-111111?style=for-the-badge&logo=firebase&logoColor=red)
 ![Redis](https://img.shields.io/badge/Redis-111111?style=for-the-badge&logo=redis&logoColor=red)
 
-### DevOps & Infrastructure
+### DevOps
 ![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=red)
-![AWS](https://img.shields.io/badge/AWS-111111?style=for-the-badge&logo=amazonaws&logoColor=red)
+![AWS](https://img.shields.io/badge/AWS-111111?style=for-the-badge&logo=aws&logoColor=red)
 ![Terraform](https://img.shields.io/badge/Terraform-111111?style=for-the-badge&logo=terraform&logoColor=red)
 ![Webpack](https://img.shields.io/badge/Webpack-111111?style=for-the-badge&logo=webpack&logoColor=red)
 
 ### Testing & Tools
-![Pytest](https://img.shields.io/badge/Pytest-111111?style=for-the-badge&logoColor=red)
+![Pytest](https://img.shields.io/badge/Pytest-111111?style=for-the-badge&logo=pytest&logoColor=red)
 ![Jest](https://img.shields.io/badge/Jest-111111?style=for-the-badge&logo=jest&logoColor=red)
 ![Selenium](https://img.shields.io/badge/Selenium-111111?style=for-the-badge&logo=selenium&logoColor=red)
 ![Postman](https://img.shields.io/badge/Postman-111111?style=for-the-badge&logo=postman&logoColor=red)
