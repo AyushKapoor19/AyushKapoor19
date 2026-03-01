@@ -6,13 +6,16 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write 
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        with:
-          github_user_name: AyushKapoor19
-          theme: github-dark
+      - uses: actions/checkout@v4
+
+      - uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: AyushKapoor19
