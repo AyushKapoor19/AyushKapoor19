@@ -57,24 +57,6 @@ Currently contributing to streaming applications across Fire TV, Android TV, Sam
   <img src="https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=2"/>
 </p>
 
-## GitHub Activity
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=AyushKapoor19&show_icons=true&theme=dark&title_color=FF0000&icon_color=FF0000&text_color=c9d1d9&bg_color=0d1117&hide_border=true" 
-    width="48%" />
-  <img 
-    src="https://streak-stats.demolab.com?user=AyushKapoor19&theme=dark&ring=FF0000&fire=FF0000&currStreakLabel=ffffff&hide_border=true&background=0d1117" 
-    width="48%" />
-</p>
-
----
-
-## Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushKapoor19&theme=redical&hide_border=true&bg_color=0d1117&color=FF0000&line=FF0000&point=ffffff"/>
-</p>
 
 ---
 
