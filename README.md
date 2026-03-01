@@ -1,15 +1,9 @@
 <h1 align="center">Hi, I'm Ayush Kapoor</h1>
 
 <p align="center">
-<a href="mailto:ayukap7890@gmail.com">
-<img src="https://img.shields.io/badge/Email-ayukap7890@gmail.com-8B0000?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-<a href="https://www.linkedin.com/in/ayush-kapoor-5a653229b/">
-<img src="https://img.shields.io/badge/LinkedIn-Ayush%20Kapoor-8B0000?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="https://github.com/AyushKapoor19">
-<img src="https://img.shields.io/badge/GitHub-AyushKapoor19-8B0000?style=for-the-badge&logo=github&logoColor=white">
-</a>
+<a href="mailto:ayukap7890@gmail.com"><img src="https://img.shields.io/badge/Email-ayukap7890@gmail.com-8B0000?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/ayush-kapoor-5a653229b/"><img src="https://img.shields.io/badge/LinkedIn-Ayush%20Kapoor-8B0000?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
+<a href="https://github.com/AyushKapoor19"><img src="https://img.shields.io/badge/GitHub-AyushKapoor19-8B0000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 <p align="center">
