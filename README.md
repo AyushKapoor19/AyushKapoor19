@@ -116,10 +116,10 @@ At **Warner Bros. Discovery**, I contribute to streaming applications across Fir
 
 ---
 
-## 🐍 Contribution Flow (Optional Setup Required)
+## 🐍 Contribution Flow
 
 <p align="center">
-  <img src="https://github.com/AyushKapoor19/AyushKapoor19/blob/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/AyushKapoor19/AyushKapoor19/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
