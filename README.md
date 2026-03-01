@@ -73,7 +73,3 @@ Currently contributing to streaming applications across Fire TV, Android TV, Sam
 </p>
 
 ---
-
-<p align="center">
-  <sub>Scalable Systems • Performance Mindset • Intentional Engineering</sub>
-</p>
