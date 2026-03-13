@@ -19,12 +19,12 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=red)
 
 ### Frameworks
+![LightningJS](https://img.shields.io/badge/LightningJS-111111?style=for-the-badge&logoColor=red)
 ![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=red)
 ![React Native](https://img.shields.io/badge/React_Native-111111?style=for-the-badge&logo=react&logoColor=red)
 ![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=red)
 ![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi&logoColor=red)
 ![Django](https://img.shields.io/badge/Django-111111?style=for-the-badge&logo=django&logoColor=red)
-![LightningJS](https://img.shields.io/badge/LightningJS-111111?style=for-the-badge&logoColor=red)
 ![Zustand](https://img.shields.io/badge/Zustand-111111?style=for-the-badge&logoColor=red)
 ![RxJS](https://img.shields.io/badge/RxJS-111111?style=for-the-badge&logo=reactivex&logoColor=red)
 
