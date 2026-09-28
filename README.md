@@ -4,7 +4,6 @@ Software Engineer · Building across the stack
 
 [![Email](https://img.shields.io/badge/-Email-0A0A0A?style=flat-square&logo=gmail&logoColor=EEEEEE)](mailto:ayukap7890@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A0A0A?style=flat-square&logo=linkedin&logoColor=EEEEEE)](https://www.linkedin.com/in/ayush-kapoor-5a653229b/)
-[![GitHub](https://img.shields.io/badge/-GitHub-0A0A0A?style=flat-square&logo=github&logoColor=EEEEEE)](https://github.com/AyushKapoor19)
 
 <br>
 
