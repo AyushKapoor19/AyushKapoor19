@@ -53,6 +53,5 @@ Software Engineer · Building across the stack
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white)
 
-<br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0A0A0A&height=2&section=header"/>
